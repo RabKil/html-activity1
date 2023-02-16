@@ -1,0 +1,60 @@
+body{
+	background-color: lightpink;
+	margin: 0;
+}
+.wrapper{
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	float: left;
+	
+}
+.logo{
+	background-color: yellowgreen;
+	width: 100%;
+	height: 200px;
+	float: left;
+	text-align: center;
+
+}
+
+.menu{
+	background-color:lightyellow ;
+	width: 100%;
+	height: 60px;
+	float: left;
+	text-align: center;
+
+}
+.display{
+	background-color: ;
+	width: 100%;
+	height: 461px;
+	float: left;
+	text-align: left;
+
+}
+.footer{
+	background-color: grey;
+	height: 60px;
+	background: ;
+	float: left;
+	width: 100%;
+}
+
+ul{
+
+    padding: 30px;
+    list-style-type: none;
+    margin:0;
+}
+
+li{
+	display: inline;
+	margin-right: 210px;
+}
+
+li a{
+	display: inline-block;
+}
+
